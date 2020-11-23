@@ -1,0 +1,39 @@
+{
+    "emp_details": [
+        {
+            "name":"himaja",
+            "department":"d1",
+            "age":22
+        },
+        {
+            "name":"abhi",
+            "department":"d1",
+            "age":21
+        },
+        {
+            "name":"pragati",
+            "department":"d2",
+            "age":21
+        },
+        {
+            "name":"mrunali",
+            "department":"d2",
+            "age":23
+        },
+        {
+            "name":"kunal",
+            "department":"d1",
+            "age":25
+        },
+        {
+            "name":"anand",
+            "department":"d1",
+            "age":20
+        },
+        {
+            "name":"atul",
+            "department":"d2",
+            "age":24
+        }
+    ]
+}
